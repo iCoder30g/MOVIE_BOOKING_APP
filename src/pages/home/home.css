@@ -1,0 +1,15 @@
+
+.main-section {
+    min-height: 50vh;
+    padding: 20px;
+}
+
+.movie-title {
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+.image-title {
+    width: 260px;
+    height: 380px;
+}
